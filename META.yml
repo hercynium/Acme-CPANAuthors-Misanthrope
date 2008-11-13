@@ -1,7 +1,7 @@
 ---
-abstract: 'The CPAN authors who see into your souls with perfect clarity.'
+abstract: 'The CPAN authors who see into your soul with perfect clarity.'
 author:
-  - 'Ashley Pond V, C<< <ashley at cpan.org> >>'
+  - 'Ashley Pond V, C<< <ashley at cpan.org> >>.'
 distribution_type: module
 generated_by: 'Module::Install version 0.75'
 license: perl
@@ -16,4 +16,4 @@ no_index:
 requires:
   Acme::CPANAuthors: 0
   Acme::CPANAuthors::Register: 0
-version: 1.00
+version: 1.01

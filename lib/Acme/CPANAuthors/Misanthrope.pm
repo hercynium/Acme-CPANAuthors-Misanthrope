@@ -3,13 +3,17 @@ package Acme::CPANAuthors::Misanthrope;
 use strict;
 use warnings;
 
-our $VERSION = '1.00';
+our $VERSION = "1.01";
 
 use Acme::CPANAuthors::Register (
                                  ADAMK => "Adam Kennedy",
-                                 MSTROUT => "Matt S Trout",
-                                 MSCHWERN => "Michael G Schwern",
                                  ASHLEY => "Ashley Pond V",
+                                 JROCKWAY => "Jonathan Rockway",
+                                 MJD => "Mark Jason Dominus",
+                                 MSCHWERN => "Michael G Schwern",
+                                 MSTROUT => "Matt S Trout",
+                                 RJBS => "Ricardo SIGNES",
+                                 SUNGO => "sungo",
                                  );
 
 1;
@@ -18,7 +22,7 @@ __END__
 
 =head1 NAME
 
-Acme::CPANAuthors::Misanthrope - The CPAN authors who see into your souls with perfect clarity.
+Acme::CPANAuthors::Misanthrope - The CPAN authors who see into your soul with perfect clarity.
 
 =head1 SYNOPSIS
 
@@ -40,7 +44,7 @@ Use this to find which CPAN authors can be trusted with your gold and wimin but 
 
 =head1 MAINTENANCE
 
-If you are a misanthropic CPAN author not listed here, send me your id to be added here. If you have been listed but discovered you are now in love or something equally fluffy and non-sensical dictating your removal, you may also squeak. You'll be greased. Promptly. Wheel.
+If you are a misanthropic CPAN author not listed here, send your id and you will be added. If you have been listed but discovered you are now in love or something equally fluffy and non-sensical dictating your removal, you may also squeak. You'll be greased. Promptly. Wheel.
 
 =head1 SEE ALSO
 
@@ -48,7 +52,7 @@ L<Acme::CPANAuthors>, L<Acme::CPANAuthors::Japanese>, L<Acme::CPANAuthors::Chine
 
 =head1 AUTHOR
 
-Ashley Pond V, C<< <ashley at cpan.org> >>
+Ashley Pond V, C<< <ashley at cpan.org> >>.
 
 =head1 COPYRIGHT AND LICENSE
 
