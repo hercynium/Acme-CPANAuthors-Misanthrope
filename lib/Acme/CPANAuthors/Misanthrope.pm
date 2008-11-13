@@ -3,9 +3,10 @@ package Acme::CPANAuthors::Misanthrope;
 use strict;
 use warnings;
 
-our $VERSION = '0.99';
+our $VERSION = '1.00';
 
 use Acme::CPANAuthors::Register (
+                                 ADAMK => "Adam Kennedy",
                                  MSTROUT => "Matt S Trout",
                                  MSCHWERN => "Michael G Schwern",
                                  ASHLEY => "Ashley Pond V",
