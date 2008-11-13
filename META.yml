@@ -1,0 +1,19 @@
+---
+abstract: 'The CPAN authors who see into your souls with perfect clarity.'
+author:
+  - 'Ashley Pond V, C<< <ashley at cpan.org> >>'
+distribution_type: module
+generated_by: 'Module::Install version 0.75'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: Acme-CPANAuthors-Misanthrope
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Acme::CPANAuthors: 0
+  Acme::CPANAuthors::Register: 0
+version: 0.99
