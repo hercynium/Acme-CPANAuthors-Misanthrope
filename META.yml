@@ -16,4 +16,4 @@ no_index:
 requires:
   Acme::CPANAuthors: 0
   Acme::CPANAuthors::Register: 0
-version: 1.01
+version: 1.02
