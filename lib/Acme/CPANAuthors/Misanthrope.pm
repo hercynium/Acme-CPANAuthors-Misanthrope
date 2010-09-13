@@ -12,6 +12,7 @@ use Acme::CPANAuthors::Register (
                                  MSCHWERN => "Michael G Schwern",
                                  MSTROUT => "Matt S Trout",
                                  RJBS => "Ricardo SIGNES",
+                                 SSCAFFIDI => "Stephen R. Scaffidi",
                                  SUNGO => "sungo",
                                  );
 
